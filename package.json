@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+<<<<<<< HEAD
     "@chakra-ui/react": "^3.2.3",
     "@emotion/react": "^11.13.5",
     "@emotion/styled": "^11.13.5",
@@ -18,6 +19,11 @@
     "next": "15.0.3",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+=======
+    "next": "15.0.3",
+    "react": "19.0.0-rc-66855b96-20241106",
+    "react-dom": "19.0.0-rc-66855b96-20241106",
+>>>>>>> dd66998f18e775ae21ca8646fc0bc3707863bfcc
     "react-icons": "^5.4.0"
   },
   "devDependencies": {
